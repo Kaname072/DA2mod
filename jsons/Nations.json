@@ -65,5 +65,6 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Força Amazona",
 "uniques": "[+2 Culture] from [Fort] tiles [in this city]",
-		"cities": ["Adonias","Caxalote","San Martin","Donnatelo","Prisma","Santa Clara","Rio Vermelho"]
+		"cities": ["Adonias","Caxalote","San Martin","Donnatelo","Prisma","Heleno","Rio Vermelho","Ladislau",
+		,"Gomorra","Aurora"]
 ]
