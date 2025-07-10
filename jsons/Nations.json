@@ -30,7 +30,7 @@
 		"outerColor": [0,212,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Cidade Maravilhosa",
-"uniques": "Cannot build [Settler] units",
+"uniques": ["Cannot build [Settler] units"],
 		"cities": ["Saturn"]
 	},
 	{
@@ -64,7 +64,7 @@
 		"outerColor": [206,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Força Amazona",
-"uniques": "[+2 Culture] from [Fort] tiles [in this city]",
+"uniques": ["[+2 Culture] from [Fort] tiles [in this city]"],
 		"cities": ["Adonias","Caxalote","San Martin","Donnatelo","Prisma","Heleno","Rio Vermelho","Ladislau",
 		,"Gomorra","Aurora"]
 	},
@@ -99,7 +99,7 @@
 		"outerColor": [0,85,255],
 		"innerColor": [255,255,255],
 		"uniqueName": "Crise de Natalidade",
-"uniques": "Cannot build [Settler] units",
+"uniques": ["Cannot build [Settler] units"],
 		"cities": ["Temujinas"]
 	},
 	{
@@ -133,7 +133,7 @@
 		"outerColor": [0,0,145],
 		"innerColor": [255,255,255],
 		"uniqueName": "Adaptação Sigma",
-"uniques": "[+15]% XP gained from combat <for [Military] units>"",
+"uniques": ["[+15]% XP gained from combat <for [Military] units>"],
 		"cities": ["A Fortaleza","Bunker I","Bunker II","Bunker III","Bunker IV","Bunker V",
 		"Bunker VI","Bunker VII","Bunker VIII","Bunker IX","Bunker X"]	
 ]
