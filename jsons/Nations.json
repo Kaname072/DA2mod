@@ -32,5 +32,38 @@
 		"uniqueName": "Cidade Maravilhosa",
 "uniques": "Cannot build [Settler] units",
 		"cities": ["Saturn"]
-	}
+	},
+	{
+		"name": "Deltas Kingdom",
+		"leaderName": "Nikolas Alencar",
+		"adjective": ["deltas"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Depois de sofremos nas mãos da antiga rainha",
+		"startIntroPart2": "Nikolas toma o trono e nós guiará para a vitória!",
+		
+		"declaringWar": "Não tente.",
+		"attacked": "Patético.",
+		"defeated": "Impressionante.",
+		"introduction": "Um novato? bem, Bom dia.",
+		
+		"neutralHello": "Olá!",
+		"neutralLetsHearIt": ["Qual é a nova?.","Oque queres.","Diga-me."],
+		"neutralNo": ["Não","Não, Colega","Não, Amigo"],
+		"neutralYes": ["Sim","Vamos lá","Legal"],
+
+		"hateHello": "Você quer o que agora?",
+		"hateLetsHearIt": ["Diga-me...","...","Porque?..."],
+		"hateNo": ["Nunca.","Aparta de mim.","Não."],
+		"hateYes": ["Sim","Ok","Vamos"],
+		
+		"afterPeace": "Já estava ficando cansado?",
+		"tradeRequest": "Aceitas?",
+
+		"outerColor": [206,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Força Amazona",
+"uniques": "[+2 Culture] from [Fort] tiles [in this city]",
+		"cities": ["Adonias","Caxalote","San Martin","Donnatelo","Prisma","Santa Clara","Rio Vermelho"]
 ]
