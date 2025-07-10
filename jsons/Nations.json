@@ -67,4 +67,73 @@
 "uniques": "[+2 Culture] from [Fort] tiles [in this city]",
 		"cities": ["Adonias","Caxalote","San Martin","Donnatelo","Prisma","Heleno","Rio Vermelho","Ladislau",
 		,"Gomorra","Aurora"]
+	},
+	{
+		"name": "Lambda Kingdom",
+		"leaderName": "Conrado Lacerda",
+		"adjective": ["lambdas"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Nossa história é parecida com a dos Deltas, sofremos nas mãos de um Imperador terrível",
+		"startIntroPart2": "Mas agora com Conrado no poder poderemos triunfar sem precisar de dor!!",
+		
+		"declaringWar": "Saia do nosso caminho!!",
+		"attacked": "Como ousa!!",
+		"defeated": "Não pode ser...",
+		"introduction": "Parece que encontrei gente nova! gostei.",
+		
+		"neutralHello": "Olá!",
+		"neutralLetsHearIt": ["Vamos ver","Oque?","Então"],
+		"neutralNo": ["Não, desculpa","Não","Não tô afim"],
+		"neutralYes": ["Sim! Sim! Sim!","Obrigado!","Muito bom!"],
+
+		"hateHello": "Ah... é você",
+		"hateLetsHearIt": ["Diga...","Ata...","Eh..."],
+		"hateNo": ["NÃO","Nananinanão!","Não..."],
+		"hateYes": ["Pronto!! gostou?!","Ok","Sim..."],
+		
+		"afterPeace": "Obrigado",
+		"tradeRequest": "É uma boa oferta",
+
+		"outerColor": [0,85,255],
+		"innerColor": [255,255,255],
+		"uniqueName": "Crise de Natalidade",
+"uniques": "Cannot build [Settler] units",
+		"cities": ["Temujinas"]
+	},
+	{
+	"name": "Sigmas Empire",
+		"leaderName": "Eric",
+		"adjective": ["sigmas"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Somos os Sigmas! Viemos para mostrar a realidade do mundo!",
+		"startIntroPart2": "Não teremos misericórdia para mostrar como tudo funciona!",
+		
+		"declaringWar": "Você será esmagado!",
+		"attacked": "HAHAHAHA",
+		"defeated": "COMO???",
+		"introduction": "Hmmm",
+		
+		"neutralHello": "ha...",
+		"neutralLetsHearIt": ["Vamos ver...","Oque?...","Então..."],
+		"neutralNo": ["HAHA Não","Não PFFF!","HAAAHHAHA"],
+		"neutralYes": ["Vantajoso!","Tudo bem!","Compensa!"],
+
+		"hateHello": "haha...",
+		"hateLetsHearIt": ["Diga.","Ata.","hehehe."],
+		"hateNo": ["haha","para quê?","não..."],
+		"hateYes": ["Parece bom","Ok","Legal."],
+		
+		"afterPeace": "Vou voltar ainda mais forte!",
+		"tradeRequest": "hehe",
+
+		"outerColor": [0,0,145],
+		"innerColor": [255,255,255],
+		"uniqueName": "Adaptação Sigma",
+"uniques": "[+15]% XP gained from combat <for [Military] units>"",
+		"cities": ["A Fortaleza","Bunker I","Bunker II","Bunker III","Bunker IV","Bunker V",
+		"Bunker VI","Bunker VII","Bunker VIII","Bunker IX","Bunker X"]	
 ]
