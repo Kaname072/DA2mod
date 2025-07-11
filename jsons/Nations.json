@@ -34,7 +34,7 @@
 		"cities": ["Saturn"]
 	},
 	{
-		"name": "Deltas Kingdom",
+		"name": "Reino Delta",
 		"leaderName": "Nikolas Alencar",
 		"adjective": ["deltas"],
 		"startBias": ["Forest"],
@@ -69,7 +69,7 @@
 		,"Gomorra","Aurora"]
 	},
 	{
-		"name": "Lambda Kingdom",
+		"name": "Reino Lambda",
 		"leaderName": "Conrado Lacerda",
 		"adjective": ["lambdas"],
 		"startBias": ["Desert"],
